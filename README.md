@@ -1,8 +1,10 @@
 ﻿🌸 Converte+ | Projeto Hanami
 
-🔗 Acesse o site: https://hanami-sooty.vercel.app/
+🔗 Acesse o site: https://hanami2-0.vercel.app
 
 O Converte+ é um site simples e intuitivo para conversão de unidades, desenvolvido como parte do Projeto de Estágio Voluntário Hanami pela aluna Maryelly Faustino.
+
+---
 
 📌 Sobre o Projeto
 
@@ -66,6 +68,8 @@ Hectômetros
 
 Quilômetros
 
+---
+
 🛠️ Tecnologias Utilizadas
 
 React com Vite
@@ -75,6 +79,8 @@ CSS para estilização
 React Router DOM para gerenciamento de rotas
 
 A biblioteca React foi escolhida por ter sido a tecnologia com maior contato durante o período do curso, servindo como uma excelente oportunidade para colocar em prática os conhecimentos adquiridos e aprofundar a familiaridade com o framework.
+
+---
 
 🧩 Estrutura da Aplicação
 
@@ -110,23 +116,25 @@ Pelo ícone vermelho em destaque na página inicial
  ┗ 📄 vite.config.js
  </pre>
 
+ ---
+
 ▶️ Rodando o Projeto Localmente
 
 Siga os passos abaixo para executar o projeto em sua máquina:
 
-Faça o download do repositório pelo Git e extraia a pasta
+1. Faça o download do repositório pelo Git e extraia a pasta
 
-Abra a pasta Hanami no VS Code
+2. Abra a pasta Hanami no VS Code
 
-No terminal, execute os comandos:
+3. No terminal, execute os comandos:
 
-cd hanami-main
+<pre> cd hanami-main
 npm install
-npm run dev
+npm run dev  </pre>
 
 
-Após a execução, será exibido um link de acesso local
+4. Após a execução, será exibido um link de acesso local
 
-Segure CTRL e clique com o botão esquerdo do mouse para abrir no navegador
+5. Segure CTRL e clique com o botão esquerdo do mouse para abrir no navegador
 
-Ou acesse diretamente o link localhost exibido no terminal
+Ou acesse diretamente o link da hospedagem informado no inicio do readme
