@@ -88,7 +88,7 @@ Pela barra de navegação superior
 
 Pelo ícone vermelho em destaque na página inicial
 
-📁 Hanami
+<pre> 📁 Hanami
  ┣ 📁 node_modules
  ┣ 📁 public
  ┣ 📁 src
@@ -108,6 +108,7 @@ Pelo ícone vermelho em destaque na página inicial
  ┣ 📄 package.json
  ┣ 📄 README.md
  ┗ 📄 vite.config.js
+ </pre>
 
 ▶️ Rodando o Projeto Localmente
 
