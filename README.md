@@ -1,8 +1,8 @@
 ﻿🌸 Converte+ | Projeto Hanami
 
-🔗 Acesse o site: https://hanami2-0.vercel.app
+🔗 **Acesse o site:** https://hanami2-0.vercel.app  
 
-O Converte+ é um site simples e intuitivo para conversão de unidades, desenvolvido como parte do Projeto de Estágio Voluntário Hanami pela aluna Maryelly Faustino.
+O **Converte+** é um site simples e intuitivo para **conversão de unidades**, desenvolvido como parte do **Projeto de Estágio Voluntário Hanami** pela aluna **Maryelly Faustino**.
 
 ---
 
@@ -10,91 +10,70 @@ O Converte+ é um site simples e intuitivo para conversão de unidades, desenvol
 
 O Converte+ permite a conversão de valores em diferentes categorias de forma rápida e prática:
 
-⏱️ Tempo
+⏱️ **Tempo**
 
-Horas
+-- Horas  
+-- Minutos  
+-- Segundos  
 
-Minutos
+⚖️ **Peso**  
 
-Segundos
+-- Toneladas  
+-- Quilograma  
+-- Hectogramas  
+-- Decagramas  
+-- Gramas  
+-- Decigramas  
+-- Centigramas  
+-- Miligramas  
 
-⚖️ Peso
+💧 **Líquidos**
 
-Toneladas
+-- Quilolitros  
+-- Hectolitros  
+-- Decalitros  
+-- Litros  
+-- Decilitros  
+-- Centilitros  
+-- Mililitros
 
-Quilogramas
+📏 **Distância**
 
-Hectogramas
-
-Decagramas
-
-Gramas
-
-Decigramas
-
-Centigramas
-
-Miligramas
-
-💧 Líquidos
-
-Quilolitros
-
-Hectolitros
-
-Decalitros
-
-Litros
-
-Decilitros
-
-Centilitros
-
-Mililitros
-
-📏 Distância
-
-Milímetros
-
-Centímetros
-
-Decímetros
-
-Metros
-
-Decâmetros
-
-Hectômetros
-
-Quilômetros
+-- Milímetros  
+-- Centímetros  
+-- Decímetros  
+-- Metros  
+-- Decâmetros  
+-- Hectômetros  
+-- Quilômetros  
 
 ---
 
-🛠️ Tecnologias Utilizadas
+🛠️ **Tecnologias Utilizadas**
 
-React com Vite
+-- **React** com **Vite**
 
-CSS para estilização
+-- **CSS** para estilização
 
-React Router DOM para gerenciamento de rotas
+-- **React Router DOM** para gerenciamento de rotas
 
-A biblioteca React foi escolhida por ter sido a tecnologia com maior contato durante o período do curso, servindo como uma excelente oportunidade para colocar em prática os conhecimentos adquiridos e aprofundar a familiaridade com o framework.
+A biblioteca **React** foi escolhida por ter sido a tecnologia com maior contato durante o período do curso, servindo como uma excelente oportunidade para colocar em prática os conhecimentos adquiridos e aprofundar a familiaridade com o framework.
 
 ---
 
-🧩 Estrutura da Aplicação
+🧩 **Estrutura da Aplicação**
 
-Componentes Header e Footer criados separadamente e reutilizados em todas as páginas
+-- Componentes **Header** e **Footer** criados separadamente e reutilizados em todas as páginas
 
-Página inicial de apresentação do projeto
+-- **Página inicial** de apresentação do projeto
 
-Página de conversão, acessível:
+-- **Página de conversão**, acessível:
 
 Pela barra de navegação superior
 
 Pelo ícone vermelho em destaque na página inicial
 
-<pre> 📁 Hanami
+´📁 Hanami
  ┣ 📁 node_modules
  ┣ 📁 public
  ┣ 📁 src
@@ -113,28 +92,28 @@ Pelo ícone vermelho em destaque na página inicial
  ┣ 📄 package-lock.json
  ┣ 📄 package.json
  ┣ 📄 README.md
- ┗ 📄 vite.config.js
- </pre>
+ ┗ 📄 vite.config.js´
+ 
 
  ---
 
-▶️ Rodando o Projeto Localmente
+▶️ **Rodando o Projeto Localmente**
 
 Siga os passos abaixo para executar o projeto em sua máquina:
 
 1. Faça o download do repositório pelo Git e extraia a pasta
 
-2. Abra a pasta Hanami no VS Code
+2. Abra a pasta **Hanami** no **VS Code**
 
 3. No terminal, execute os comandos:
 
-<pre> cd hanami-main
+´cd hanami-main
 npm install
-npm run dev  </pre>
+npm run dev ´
 
 
 4. Após a execução, será exibido um link de acesso local
 
-5. Segure CTRL e clique com o botão esquerdo do mouse para abrir no navegador
+5. Segure **CTRL** e clique com o botão esquerdo do mouse para abrir no navegador o ´localhost´
 
 Ou acesse diretamente o link da hospedagem informado no inicio do readme
